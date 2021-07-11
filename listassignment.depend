@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1626006306 source:d:\college\year 2\semester 2\elc 2080 (embedded systems)\assignments\dr. omar's assignments\linked lists\outer\listassignment\main.c
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
